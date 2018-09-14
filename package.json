@@ -21,6 +21,7 @@
     "@babel/preset-env": "^7.0.0",
     "@babel/register": "^7.0.0",
     "esprima": "^4.0.1",
-    "mocha": "^5.2.0"
+    "mocha": "^5.2.0",
+    "power-assert": "^1.6.1"
   }
 }
