@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/sakai-akinobu/esprima-escodegen-sandbox#readme",
   "devDependencies": {
-    "esprima": "^4.0.1"
+    "esprima": "^4.0.1",
+    "mocha": "^5.2.0"
   }
 }
