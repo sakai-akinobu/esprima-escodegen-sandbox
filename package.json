@@ -20,6 +20,7 @@
     "@babel/core": "^7.0.1",
     "@babel/preset-env": "^7.0.0",
     "@babel/register": "^7.0.0",
+    "ast-types": "^0.11.5",
     "escodegen": "^1.11.0",
     "esprima": "^4.0.1",
     "mocha": "^5.2.0",
