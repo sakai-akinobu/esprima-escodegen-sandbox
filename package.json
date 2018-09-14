@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "$(npm bin)/mocha --compilers js:@babel/register ./test/*.js"
+    "test": "$(npm bin)/mocha --require @babel/register ./test/*.js"
   },
   "repository": {
     "type": "git",
