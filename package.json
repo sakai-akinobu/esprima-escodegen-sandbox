@@ -18,6 +18,7 @@
   "homepage": "https://github.com/sakai-akinobu/esprima-escodegen-sandbox#readme",
   "devDependencies": {
     "@babel/core": "^7.0.1",
+    "@babel/preset-env": "^7.0.0",
     "@babel/register": "^7.0.0",
     "esprima": "^4.0.1",
     "mocha": "^5.2.0"
