@@ -1,0 +1,19 @@
+{
+  "name": "esprima-escodegen-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sakai-akinobu/esprima-escodegen-sandbox.git"
+  },
+  "author": "sakai-akinobu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sakai-akinobu/esprima-escodegen-sandbox/issues"
+  },
+  "homepage": "https://github.com/sakai-akinobu/esprima-escodegen-sandbox#readme"
+}
