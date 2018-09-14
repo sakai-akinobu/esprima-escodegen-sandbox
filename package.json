@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "$(npm bin)/mocha ./test/*.js"
+    "test": "$(npm bin)/mocha --compilers js:@babel/register ./test/*.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/sakai-akinobu/esprima-escodegen-sandbox#readme",
   "devDependencies": {
+    "@babel/core": "^7.0.1",
+    "@babel/register": "^7.0.0",
     "esprima": "^4.0.1",
     "mocha": "^5.2.0"
   }
